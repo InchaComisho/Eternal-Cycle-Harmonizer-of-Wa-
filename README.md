@@ -2,9 +2,9 @@
 
 ## A Civilization-Tuning Action RPG About Building a Sustainable World
 
-**Author:** Master (inchacomisho / inchacomusho)
-**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)
-**Published:** May 2026
+**Author:** Master (inchacomisho / inchacomusho)  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+**Published:** May 2026  
 **License:** Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
 ---
