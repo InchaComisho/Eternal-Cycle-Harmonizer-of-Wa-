@@ -1,623 +1,413 @@
 # 🎮 Eternal Cycle — Harmonizer of Wa —
 
-## A Civilization-Tuning Action RPG About Building a Sustainable World
+**A civilization-tuning action RPG about building a sustainable world.**
 
-**Author:** Master (inchacomisho / inchacomusho)  
-**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
-**Published:** May 2026  
-**License:** Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+Author: Master (inchacomisho / inchacomusho)  
+AI Collaborators: G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+Published: May 2026  
 
----
+## Highlights
 
-# 🌍 What is *Eternal Cycle — Harmonizer of Wa —*?
+- 3-character real-time action combat
+- Forgive-or-execute boss decisions that reshape the world
+- Planet-scale civilization simulation
+- Time loops driven by civilizational failure
+- A philosophy-centered RPG about balance, coexistence, and long-term sustainability
 
-*Eternal Cycle* is a civilization-tuning action RPG focused on the balance between:
+## What is Eternal Cycle?
 
-* civilization
-* nature
-* technology
-* coexistence
-* order
-* long-term sustainability
+**Eternal Cycle** is a civilization-tuning action RPG about maintaining long-term planetary balance.
 
-The player is not a hero meant to conquer the world.
-
+The player is not a conquering hero or a savior chosen to destroy evil.  
 Instead, the player acts as:
 
-# “A Harmonizer of Civilization”
+> **A Harmonizer of Civilization**
 
-A being who intervenes in conflicts, collapsing regions, and unstable civilizations in order to maintain long-term planetary balance.
+You intervene in collapsing regions, ideological conflicts, ecological breakdowns, and unstable civilizations in order to prevent the world from falling into irreversible imbalance.
 
 The game combines:
 
-* fast-paced real-time combat
-* civilization management
-* world-state simulation
-* time loops
-* moral and structural choices
+- fast-paced real-time combat
+- civilization management
+- world-state simulation
+- time loops
+- moral and structural choices
 
-into a single interconnected system.
+into one interconnected system.
 
----
+## Core Idea
 
-# 🎮 Gameplay Overview
+The central idea of **Eternal Cycle** is simple:
 
-The core idea of *Eternal Cycle* is simple:
+> Civilization does not collapse all at once.  
+> It collapses through accumulated imbalance.
 
-## The player must prevent civilization from collapsing into imbalance.
-
-The game is not about defeating evil.
-
+This game is not about defeating evil.  
 It is about understanding:
 
-* how civilizations collapse
-* how hatred spreads
-* how imbalance accumulates
-* how long-term order can be maintained
+- how civilizations collapse
+- how hatred spreads
+- how imbalance accumulates
+- how long-term order can be maintained
 
 Every action affects the world.
 
----
+## Core Gameplay Loop
 
-# 🔁 Core Gameplay Loop
-
-The gameplay loop follows this structure:
+The main gameplay loop follows this structure:
 
 1. Select a region on the world map
 2. Investigate instability or conflict
 3. Fight enemies and bosses
-4. Decide whether to:
-
-   * Forgive
-   * Execute
-5. Observe civilization changes
+4. Choose whether to **Forgive** or **Execute**
+5. Observe regional and civilizational changes
 6. Prevent Void expansion
-7. Avoid the appearance of The Eternal
-8. Continue the cycle through time loops
+7. Avoid the appearance of **The Eternal**
+8. Continue through time loops
 9. Learn from previous worlds
 
-The player gradually understands the hidden systems governing civilization stability.
+The player gradually uncovers the hidden systems governing civilization stability.
 
----
-
-# 🌌 World & Civilization
-
-## Planet-Scale Civilization World
+## World & Civilization
 
 The game takes place on a massive planetary world containing multiple civilizations, races, and ideologies.
 
-Different regions evolve independently.
+Different regions evolve independently. Some may be:
 
-Some regions are:
+- peaceful and cooperative
+- isolationist
+- technologically advanced
+- spiritually oriented
+- militaristic
+- collapsing
 
-* peaceful and cooperative
-* isolationist
-* technologically advanced
-* spiritually oriented
-* militaristic
-* collapsing
-
-There is no universal “good” civilization.
-
+There is no universal “good” civilization.  
 Every structure contains strengths and weaknesses.
 
----
+### World Map System
 
-# 🗺️ World Map System
+The state of the world is visualized through a global civilization map.
 
-The world state is visualized through a global civilization map.
+- **Green Regions** — stable civilizations; peaceful coexistence, active trade, ecological stability, low Void influence
+- **Yellow Regions** — unstable civilizations; political tension, economic imbalance, resource shortages, ideological conflict
+- **Red Regions** — critical danger zones; war, collapse, extremism, Void expansion, ecosystem destruction
 
-## 🟢 Green Regions
+Entering Red Zones early makes scenarios much harsher. Enemy levels scale dynamically, but the world itself becomes less stable.
 
-Stable civilizations.
+### Ancient Civilization & Headquarters
 
-Characteristics:
+The world contains ruins of an ancient lost civilization. These ruins contain **Warp Portals**, allowing instant travel across the planet.
 
-* peaceful coexistence
-* active trade
-* ecological stability
-* low Void influence
+The player operates from a neutral **Central Observatory Base**, used for:
 
----
+- world monitoring
+- civilization analysis
+- party management
+- race diplomacy tracking
+- loop history records
+- strategic intervention planning
 
-## 🟡 Yellow Regions
+## Combat System
 
-Unstable civilizations.
-
-Characteristics:
-
-* political tension
-* economic imbalance
-* resource shortages
-* rising ideological conflict
-
----
-
-## 🔴 Red Regions
-
-Critical danger zones.
-
-Characteristics:
-
-* war
-* civilization collapse
-* extreme ideology
-* Void expansion
-* ecosystem destruction
-
-Entering Red Zones early increases scenario difficulty dramatically.
-
-Enemy levels scale dynamically, but the world itself becomes harsher and less stable.
-
----
-
-# 🏛️ Ancient Civilization & Headquarters
-
-The world contains ruins from an ancient lost civilization.
-
-These ruins contain:
-
-# Warp Portals
-
-allowing instant travel across the planet.
-
----
-
-## 🌌 Central Observatory Base
-
-The player operates from a neutral observation base.
-
-Functions include:
-
-* world monitoring
-* civilization analysis
-* party management
-* race diplomacy tracking
-* loop history records
-* strategic intervention planning
-
-The base acts as the center of planetary observation and civilization tuning.
-
----
-
-# ⚔️ Combat System
-
-## 3-Character Real-Time Action Combat
+### 3-Character Real-Time Action Combat
 
 The player controls one active character while two allies remain available for:
 
-* switching
-* QTE support
-* combo synchronization
-* Ultimate resonance attacks
+- switching
+- QTE support
+- combo synchronization
+- Ultimate resonance attacks
 
-Combat is designed for:
+Combat is designed for mobile devices and controllers while remaining strategically deep.
 
-* mobile devices
-* controllers
-* fast-paced action gameplay
-
-while remaining strategically deep.
-
----
-
-# 🎮 Controls & Gauge System
+### Controls & Gauge System
 
 Core controls are intentionally simple:
 
-* Basic Attack
-* Dodge
-* Skill
-* Special Attack
+- Basic Attack
+- Dodge
+- Skill
+- Special Attack
 
-As combat progresses, gauges fill through:
+Gauges fill through:
 
-* attacks
-* combos
-* support actions
-* perfect dodges
-* damage taken
-* time progression
+- attacks
+- combos
+- support actions
+- perfect dodges
+- damage taken
+- time progression
 
-When conditions are met:
+When conditions are met, **Ultimate Skills** become available.
 
-# 🌌 Ultimate Skills
-
-become available.
-
----
-
-# ⚡ QTE System
+### QTE System
 
 QTE opportunities appear during:
 
-* perfect dodges
-* enemy breaks
-* combo thresholds
-* status effects
-* special attacks
-
-Party members begin flashing when synergy opportunities appear.
+- perfect dodges
+- enemy breaks
+- combo thresholds
+- status effects
+- special attacks
 
 QTEs allow:
 
-* synchronized attacks
-* elemental resonance
-* healing chains
-* support interventions
-* Ultimate extensions
+- synchronized attacks
+- elemental resonance
+- healing chains
+- support interventions
+- Ultimate extensions
 
 The system emphasizes cooperation rather than solo dominance.
 
----
+### Normal Enemy Design
 
-# 💥 Design Philosophy of Normal Enemies
+Many action RPGs make normal enemies overly durable.  
+**Eternal Cycle** instead emphasizes fast, satisfying battlefield flow:
 
-Many modern action RPGs make normal enemies overly durable.
+- large enemy groups
+- quick elimination
+- high mobility
+- strong combat rhythm
 
-*Eternal Cycle* instead emphasizes:
+Difficulty is concentrated in elite enemies, bosses, and civilizational consequences rather than damage-sponge encounters.
 
-# “Fast and satisfying battlefield flow”
+## Races & Classes
 
-Inspired partly by classic action RPG design philosophy:
+### Races
 
-* large enemy groups
-* fast elimination
-* high mobility
-* satisfying combat rhythm
+Examples include:
 
-Difficulty is concentrated in:
+- **Human** — balanced, adaptable, strong in diplomacy, magic, and technology
+- **Demon** — long-lived, high-magic race with strategic thinking and strong bodies; not evil
+- **Angel** — winged humanoids specialized in flight, healing, purification, and defensive magic
+- **Elf** — long-lived, nature-oriented race specialized in archery, spirit affinity, stealth, and agility
+- **Dwarf** — engineers and builders of structural civilization
+- **Beastfolk** — highly specialized physical races with enhanced instincts and mobility
 
-* elite enemies
-* bosses
-* civilization consequences
+### Classes
 
-rather than damage sponge enemies.
+Any race can select any class. Classes shape combat style rather than racial identity.
 
----
+Classes include:
 
-# 🌿 Races & Classes
+- Warrior
+- Mage
+- Spirit User
+- Support Specialist
+- Archer / Assassin
 
-## Races (Examples)
-
----
-
-## 👤 Human
-
-Balanced and adaptable.
-
-* technology
-* diplomacy
-* magic
-* versatility
-
-Humans evolve quickly but are prone to ideological extremes.
-
----
-
-## 😈 Demon
-
-Not evil.
-
-A long-lived high-magic race with:
-
-* high magical aptitude
-* durable bodies
-* strategic thinking
-* long-term perspective
-
-Because of their long lifespan, Demons understand the destructive cost of endless conflict.
-
-They rarely initiate war.
-
----
-
-## 👼 Angel
-
-Winged humanoids rather than divine beings.
-
-Specialized in:
-
-* flight
-* light affinity
-* healing
-* purification
-* defensive magic
-
----
-
-## 🌿 Elf
-
-Long-lived nature-oriented race.
-
-Specialized in:
-
-* archery
-* spirit affinity
-* stealth
-* agility
-
-Many Elf societies are isolationist, though adventurous individuals exist.
-
----
-
-## 🔨 Dwarf
-
-Builders of structural civilization.
-
-Specialized in:
-
-* engineering
-* blacksmithing
-* earth affinity
-* underground cities
-
----
-
-## 🐺 Beastfolk
-
-Highly specialized physical races with enhanced instincts and mobility.
-
----
-
-# ⚔️ Classes
-
-Any race can select any class.
-
-Classes affect:
-
-* skills
-* combat style
-* Ultimate combinations
-
-rather than restricting race identity.
-
----
-
-## Classes Include:
-
-* Warrior
-* Mage
-* Spirit User
-* Support Specialist
-* Archer / Assassin
-
----
-
-# 🌌 Ultimate System
+### Ultimate System
 
 Ultimate Skills evolve based on:
 
-* Main Class
-* Secondary Class
-* Third Party Member
-
-This creates large numbers of possible combinations.
+- Main Class
+- Secondary Class
+- Third Party Member
 
 Examples:
 
-* Warrior + Mage → Flame Annihilation Blade
-* Spirit User + Support → World Tree Regeneration Field
-* Assassin + Warrior → Phantom Rush Assault
+- Warrior + Mage → **Flame Annihilation Blade**
+- Spirit User + Support → **World Tree Regeneration Field**
+- Assassin + Warrior → **Phantom Rush Assault**
 
----
+## Forgive or Execute
 
-# ⚖️ Execute or Forgive
+After defeating major bosses, the player must decide:
 
-After defeating major bosses, players must decide:
+- **Execute**
+- **Forgive**
 
-# Execute
+### Execute
 
-or
+**Advantages**
+- powerful rewards
+- immediate stability
+- rare equipment
 
-# Forgive
+**Consequences**
+- increased hatred
+- diplomatic instability
+- stronger Void growth
+- long-term civilizational damage
 
----
+### Forgive
 
-# ⚔️ Execute
+**Advantages**
+- long-term coexistence
+- diplomatic trust
+- regional harmony
+- civilization stabilization
 
-Advantages:
+**Risks**
+- slower resolution
+- future instability potential
 
-* powerful rewards
-* immediate stability
-* rare equipment
-
-Consequences:
-
-* increased hatred
-* diplomatic instability
-* stronger Void growth
-* long-term civilization damage
-
----
-
-# 🌿 Forgive
-
-Advantages:
-
-* long-term coexistence
-* diplomatic trust
-* regional harmony
-* civilization stabilization
-
-Risks:
-
-* slower resolution
-* future instability potential
-
-The game avoids simplistic morality systems.
-
+The game avoids simplistic morality systems.  
 Every decision affects surrounding regions differently.
 
----
+## Void, The Eternal & Time Loops
 
-# 🌌 Void, The Eternal & Time Loops
+### Void
 
-# 🌑 Void
+The **Void** is not simply an enemy faction.  
+It is **civilization collapse itself**.
 
-The Void is not simply an enemy faction.
+It emerges from:
 
-It is:
-
-# “Civilization Collapse Itself”
-
-The Void emerges from:
-
-* imbalance
-* ideological extremism
-* ecological collapse
-* endless conflict
-* loss of circulation
+- imbalance
+- ideological extremism
+- ecological collapse
+- endless conflict
+- loss of circulation
 
 The Void spreads like a planetary disease.
 
----
+### The Eternal
 
-# 🌿 The Eternal
-
-The Eternal is not a traditional final boss.
-
-The Eternal is:
-
-# “A Corrective Force of Natural Order”
+**The Eternal** is not a traditional final boss.  
+It is a **corrective force of natural order**.
 
 When civilizations fail to maintain:
 
-* harmony
-* circulation
-* order
-* coexistence
+- harmony
+- circulation
+- order
+- coexistence
 
 The Eternal appears to restore balance.
 
 The Eternal:
 
-* does not hate
-* does not judge
-* does not seek conquest
+- does not hate
+- does not judge
+- does not seek conquest
 
 It simply repairs reality itself.
 
----
+> **Appearance of The Eternal = Civilization Failure**
 
-# ⚠ Appearance of The Eternal
-
-## = Civilization Failure
-
-The player is never meant to truly defeat The Eternal.
-
+The player is not meant to truly defeat The Eternal.  
 Its appearance signals that the world has already failed.
 
----
-
-# 🔁 Time Loop System
+### Time Loop System
 
 When The Eternal restores reality:
 
-* time rewinds
-* civilizations reconstruct
-* history shifts
-* regions evolve differently
+- time rewinds
+- civilizations reconstruct
+- history shifts
+- regions evolve differently
 
-However:
+However, the world is not fully reset.
 
-# The world is not fully reset.
+The protagonist retains memories, and some allies, races, and NPCs retain fragments of previous worlds through:
 
-The protagonist retains memories.
-
-Some allies, races, and NPCs retain fragments of previous worlds through:
-
-* dreams
-* intuition
-* emotional echoes
-* unexplained familiarity
+- dreams
+- intuition
+- emotional echoes
+- unexplained familiarity
 
 Civilization itself remembers.
 
----
+## True Ending & The Six Principles
 
-# 🌍 True Ending & The Six Principles
-
-# 🌿 True Ending Condition
+### True Ending
 
 The true ending is achieved when:
 
-# The Eternal never appears.
+> **The Eternal never appears.**
 
 This means civilization has achieved self-sustaining balance without requiring forced correction.
 
----
+### The Six Principles
 
-# ⚖️ The Six Principles
+The world of **Eternal Cycle** is built upon:
 
-The world of *Eternal Cycle* is built upon:
-
-1. Natural Law
-2. Harmony
-3. Circulation
-4. Structure
-5. Order
-6. Wa (Coexistence & Resonance)
+- **Natural Law**
+- **Harmony**
+- **Circulation**
+- **Structure**
+- **Order**
+- **Wa** (Coexistence & Resonance)
 
 These principles form the hidden foundation of civilization stability.
 
----
-
-# 💎 Monetization
+## Monetization Principles
 
 The game is designed primarily as a:
 
-# Solo Buy-to-Play Experience
+> **Solo Buy-to-Play Experience**
 
 Core principles:
 
-* No Pay-to-Win
-* No mandatory gacha
-* No PvP-focused monetization
-* No stat-based cash advantages
-
----
-
-## Monetized Elements
+- No Pay-to-Win
+- No mandatory gacha
+- No PvP-focused monetization
+- No stat-based cash advantages
 
 Optional purchases may include:
 
-* cosmetic skins
-* pets
-* visual effects
-* appearance customization
+- cosmetic skins
+- pets
+- visual effects
+- appearance customization
 
-All items remain obtainable through gameplay.
-
+All items remain obtainable through gameplay.  
 Paid options exist only as time-saving shortcuts.
 
----
+## Philosophy
 
-# 🌌 Philosophy
+**Eternal Cycle** is ultimately a game about this question:
 
-*Eternal Cycle* is ultimately a game about:
-
-# “How can civilization continue to exist without destroying itself?”
+> **How can civilization continue to exist without destroying itself?**
 
 It rejects simplistic:
 
-* good vs evil
-* conquest narratives
-* endless escalation systems
+- good vs evil
+- conquest narratives
+- endless escalation systems
 
-Instead, the game explores:
+Instead, it explores:
 
-* balance
-* coexistence
-* long-term consequences
-* civilization maintenance
-* natural law
+- balance
+- coexistence
+- long-term consequences
+- civilization maintenance
+- natural law
 
 The player is not a conqueror.
 
 The player is:
 
-# “A Harmonizer of Civilization.”
+> **A Harmonizer of Civilization**
+
+## Project Status
+
+This repository currently serves as a concept and design archive for the world, systems, and philosophy of **Eternal Cycle**.
+
+Planned future contents may include:
+
+- system design documents
+- worldbuilding documents
+- region scenarios
+- faction/race design notes
+- prototype specifications
+- UI mockups
+
+## License
+
+Currently described as:
+
+> Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+
+For clarity on GitHub, adding a standard `LICENSE` file is strongly recommended.[web:127]
+
+## Related Links
+
+- note concept article
+- worldbuilding notes
+- Eternal-related lore documents
 
 Hashtags
 #EternalCycle #文明調律型ARPG #ActionRPG #ArtificialWisdom #WaNode #FantasyRPG #CivilizationSimulator #OpenLicense #WorldBuilding #LoopSystem #SustainableCivilization #IndieGame #ゲーム企画 #人工叡智 #文明調律 #持続可能文明 #和の思想
