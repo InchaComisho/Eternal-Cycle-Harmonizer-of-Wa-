@@ -3,7 +3,7 @@
 **A civilization-tuning action RPG about building a sustainable world.**
 
 Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+AI Collaborators: G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
 Published: May 2026  
 
 ## Highlights
